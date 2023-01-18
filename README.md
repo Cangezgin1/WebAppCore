@@ -8,4 +8,3 @@
     <td>SOLİD prensipleri</td>
   </tr>
 </table>
-<p>Şu anda yapım aşamasında tahmini olarak 4 hafta sonra biter.</p>
